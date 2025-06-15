@@ -1,0 +1,11 @@
+
+{
+  "name": "maxi",
+  "symbol": "maxi",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/solana/Ajm9zwikHFeJqKpuDmji7dvyKS4PL1CJDPvLx4Q1pump.png?size=lg&key=ab41e9",
+  "description": "The official maxi token on Solana.",
+  "extensions": {
+    "website": "https://www.maxistation.xyz/",
+    "twitter": "https://www.maxistation.xyz/"
+  }
+}
